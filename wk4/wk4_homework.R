@@ -5,7 +5,7 @@ library(dplyr)
 library(janitor)
 
 ##load data
-countries <- st_read("wk4/World_Countries_(Generalized)_2402777631520798174/World_Countries_Generalized.shp")
+countries <- st_read("wk4/World_Countries_Generalized_Shapefile/World_Countries_Generalized.shp")
 gii <-  read.csv("wk4/gii_2010-2019.csv")
 
 ##edit data
