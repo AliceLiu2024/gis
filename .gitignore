@@ -1,2 +1,5 @@
 .Rproj.user
-gis.Rproj
+.Rhistory
+.RData
+.Ruserdata
+Data/*
